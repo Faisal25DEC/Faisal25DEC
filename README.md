@@ -168,13 +168,7 @@
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=faisal25dec&"
-    alt="faisal25dec"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal25DEC)](https://git.io/streak-stats)
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
