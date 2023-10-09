@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development**<br/>
 - 💬 Ask me about
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
-- 👨‍💻Portfolio - <a href='https://faisal25dec.github.io/' target="_blank">https://faisal25dec.github.io/</a>
+- 👨‍💻Portfolio - <a href='https://faisal25dec.github.io/' target="blank">https://faisal25dec.github.io/</a>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
 
