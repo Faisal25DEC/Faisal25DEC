@@ -16,13 +16,13 @@
 - 🌱 I’m currently learning **Full Stack Web Development**<br/>
 - 💬 Ask me about
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
-- 👨‍💻Portfolio - <a href='https://faisal25dec.github.io/' target="blank">https://faisal25dec.github.io/</a>
+- 👨‍💻Portfolio - <a href='https://faisal25dec.github.io/' target="_blank">https://faisal25dec.github.io/</a>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/faisal25121999" target="blank"
+  <a href="https://linkedin.com/in/faisal25121999" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -30,7 +30,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codesandbox.com/faisal25dec" target="blank"
+  <a href="https://codesandbox.com/faisal25dec" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
@@ -38,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/faisal_24" target="blank"
+  <a href="https://www.leetcode.com/faisal_24" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
