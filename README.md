@@ -19,7 +19,7 @@
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](faisal25dec.github.io)
+- Potfolio - **https://faisal25dec.github.io**
 <h3 align="left">Connect with me:</h3>
 
 
