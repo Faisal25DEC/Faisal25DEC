@@ -10,7 +10,8 @@
     alt="faisal25dec"
   />
 </p>
-You can reach out to me at faisal25dec.github.io
+
+
 
 **About me**
 - 🌱 I’m currently learning **Full Stack Web Development**<br/>
@@ -18,8 +19,10 @@ You can reach out to me at faisal25dec.github.io
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](faisal25dec.github.io)
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
   <a href="https://linkedin.com/in/faisal25121999" target="_blank"
     ><img
