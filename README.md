@@ -10,7 +10,7 @@
     alt="faisal25dec"
   />
 </p>
-👨‍💻Portfolio - <a href='https://faisal25dec.github.io' target="_blank">https://faisal25dec.github.io/</a>
+👨‍💻Portfolio - <a href='https://faisal25dec.github.io' target="_blank">https://faisal25dec.github.io</a>
 
 **About me**
 - 🌱 I’m currently learning **Full Stack Web Development**<br/>
