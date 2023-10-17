@@ -13,13 +13,12 @@
 
 
 
-**About me**
 - 🌱 I’m currently learning **Full Stack Web Development**<br/>
 - 💬 Ask me about
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
-<a href='https://faisal25dec.github.io'>faisal25dec.github.io</a>
+- Portfolio - https://faisal25dec.github.io/
 <h3 align="left">Connect with me:</h3>
 
 
