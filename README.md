@@ -155,7 +155,7 @@
 </p>
 <p>
   <img
-    align="center"
+    align="left"
     src="https://leetcard.jacoblin.cool/Faisal_24?theme=nord"
     alt="faisal25dec"
   />
@@ -163,22 +163,28 @@
 </br>
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=faisal25dec&show_icons=true&locale=en&theme=nord"
     alt="faisal25dec"
   />
 </p>
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact&theme=nord"
     alt="faisal25dec"
   />
 </p>
 
+<p>
+  <img
+    align="right"
+    src="https://streak-stats.demolab.com/?user=Faisal25DEC&theme=nord"
+    alt="faisal25dec"
+  />
+</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal25DEC&theme=nord)](https://git.io/streak-stats)
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
