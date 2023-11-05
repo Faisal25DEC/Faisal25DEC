@@ -155,26 +155,28 @@
 </p>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://leetcard.jacoblin.cool/Faisal_24?theme=nord"
     alt="faisal25dec"
   />
 </p>
+</br>
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact&theme=nord"
-    alt="faisal25dec"
-  />
-</p>
-
-<p>
-  &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=faisal25dec&show_icons=true&locale=en&theme=nord"
     alt="faisal25dec"
   />
 </p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact&theme=nord"
+    alt="faisal25dec"
+  />
+</p>
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal25DEC&theme=nord)](https://git.io/streak-stats)
 <p align="left">
