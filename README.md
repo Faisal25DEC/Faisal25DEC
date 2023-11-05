@@ -153,75 +153,32 @@
     />
   </a>
 </p>
-<div style="display:flex;align-items:center">
+
 <p>
   <img
     align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact"
+    alt="faisal25dec"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=faisal25dec&show_icons=true&locale=en"
+    alt="faisal25dec"
+  />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal25DEC)](https://git.io/streak-stats)
+<p>
+  &nbsp;<img
+    align="center"
     src="https://leetcard.jacoblin.cool/Faisal_24?theme=light"
     alt="faisal25dec"
   />
 </p>
-<p>
-
-  <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact&theme=light"
-    alt="faisal25dec"
-    width = "420"
-    height = "210"
-  />
-</p>
-</div>
-
-
-
-<p>
-  
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-  <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=faisal25dec&show_icons=true&locale=en&theme=light"
-    alt="faisal25dec"
-    top = "10px"
-    />
-  
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://streak-stats.demolab.com/?user=Faisal25DEC&theme=light"
-    alt="faisal25dec"
-    top="10px"
-/>
-    
-  
-</p>
-
-
-</br>
-
-
 <p align="left">
-  <br/>
-<br/>
-<br/>
-  <br/>
-<br/>
-<br/>
-  <br/>
-<br/>
-<br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=faisal25dec"
