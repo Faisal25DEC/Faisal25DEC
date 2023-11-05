@@ -155,7 +155,7 @@
 </p>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://leetcard.jacoblin.cool/Faisal_24?theme=nord"
     alt="faisal25dec"
   />
@@ -163,14 +163,14 @@
 </br>
 <p>
   <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=faisal25dec&show_icons=true&locale=en&theme=nord"
     alt="faisal25dec"
   />
 </p>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal25dec&show_icons=true&locale=en&layout=compact&theme=nord"
     alt="faisal25dec"
   />
@@ -178,7 +178,7 @@
 
 <p>
   <img
-    align="right"
+    align="center"
     src="https://streak-stats.demolab.com/?user=Faisal25DEC&theme=nord"
     alt="faisal25dec"
   />
