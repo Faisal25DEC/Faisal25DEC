@@ -153,7 +153,13 @@
     />
   </a>
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Faisal_24?theme=nord)
+<p>
+  <img
+    align="left"
+    src="https://leetcard.jacoblin.cool/Faisal_24?theme=nord"
+    alt="faisal25dec"
+  />
+</p>
 <p>
   <img
     align="left"
