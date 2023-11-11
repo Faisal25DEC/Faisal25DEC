@@ -18,7 +18,7 @@
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
-- Portfolio - https://faisal25dec.github.io/
+- Portfolio - https://faisal-s-portfolio.vercel.app/
 <h3 align="left">Connect with me:</h3>
 
 
