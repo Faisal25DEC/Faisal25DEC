@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">
   A Web Developer with an intense passion for developing progressive and
   beautiful websites
@@ -18,7 +18,7 @@
 **HTML, CSS, JS, React, Firebase, Node.js**<br/>
 - 📫 How to reach me
 **faisalmd25121999@gmail.com**<br/>
-<h3> My Portfolio - <a href = 'https://faisal-s-portfolio.vercel.app/' target="_blank">https://faisal-s-portfolio.vercel.app/</a></h3>
+<h3 color="white"> My Portfolio - <a href = 'https://faisal-s-portfolio.vercel.app/' target="_blank">https://faisal-s-portfolio.vercel.app/</a></h3>
 <h3 align="left">Connect with me:</h3>
 
 
