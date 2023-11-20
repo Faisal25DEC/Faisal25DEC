@@ -1,9 +1,13 @@
  <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">
+
   A Web Developer with an intense passion for developing progressive and
   beautiful websites
 </h3>
-<img align = 'right' src = 'https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif' alt='laptop-iamge' width='250'/>
+
+
+<img align = "right" src  = "https://github.com/Faisal25DEC/Faisal25DEC/assets/136161964/26719042-4414-4584-b413-87978b0b3f59"/>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=faisal25dec&label=Profile%20views&color=0e75b6&style=flat"
